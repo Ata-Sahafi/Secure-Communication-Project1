@@ -40,3 +40,10 @@ See .gitignore for details.
 ## 📄 License
 Distributed under the MIT License. See LICENSE file for details.
 
+## 🌟 Features
+
+- AES‑256 CBC encryption and decryption
+- Padding and IV handling
+- Hex output display
+
+
