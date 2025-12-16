@@ -1,5 +1,4 @@
 # Secure Communication Project 1
-# Secure Communication Project 1
 
 **AES‑256 Encryption & Decryption (Python)**
 
@@ -23,4 +22,25 @@ This repository contains a script (`aes.py`) demonstrating how to:
 2. Install required package:
    ```bash
    pip install cryptography
+Run:
 
+bash
+Copy code
+python aes.py
+🧠 Output
+The program prints:
+
+pgsql
+Copy code
+Encrypted (hex): <hex output>
+Decrypted: Hello Secure World!
+⚙️ .gitignore
+This repository excludes unnecessary files for cleanliness.
+
+See .gitignore for details.
+
+📄 License
+Distributed under the MIT License. See LICENSE file for details.
+
+yaml
+Copy code
