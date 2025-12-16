@@ -30,6 +30,9 @@ The program prints:
 
 Encrypted (hex): <hex output>
 Decrypted: Hello Secure World!
+
+
+
 ⚙️ .gitignore
 This repository excludes unnecessary files for cleanliness.
 
