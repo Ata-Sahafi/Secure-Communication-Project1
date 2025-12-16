@@ -23,15 +23,11 @@ This repository contains a script (`aes.py`) demonstrating how to:
    ```bash
    pip install cryptography
 Run:
-
-bash
-Copy code
 python aes.py
+
 🧠 Output
 The program prints:
 
-pgsql
-Copy code
 Encrypted (hex): <hex output>
 Decrypted: Hello Secure World!
 ⚙️ .gitignore
