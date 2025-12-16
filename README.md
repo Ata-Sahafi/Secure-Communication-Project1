@@ -25,19 +25,18 @@ This repository contains a script (`aes.py`) demonstrating how to:
 Run:
 python aes.py
 
-🧠 Output
-The program prints:
+## 🧠 Output Example
 
-Encrypted (hex): <hex output>
+Encrypted (hex): 80182048efca793b010b275323f76d4fa64af058cc3c013b9de372939cb8044fc57d7bab9cc2a57ceb681aa0fd175f72
 Decrypted: Hello Secure World!
 
 
 
-⚙️ .gitignore
+## ⚙️ .gitignore
 This repository excludes unnecessary files for cleanliness.
 
 See .gitignore for details.
 
-📄 License
+## 📄 License
 Distributed under the MIT License. See LICENSE file for details.
 
