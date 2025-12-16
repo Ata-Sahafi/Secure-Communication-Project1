@@ -41,5 +41,3 @@ See .gitignore for details.
 📄 License
 Distributed under the MIT License. See LICENSE file for details.
 
-yaml
-Copy code
